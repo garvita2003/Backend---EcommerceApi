@@ -76,9 +76,5 @@ Order:
 ![image](https://github.com/garvita2003/Backend---EcommerceApi/assets/102051676/d359c4cb-6fff-4f54-8411-e69c08453c83)
 ![image](https://github.com/garvita2003/Backend---EcommerceApi/assets/102051676/21ba261d-9f73-46f3-a0e4-20264095203e)
 
-   
-# Output Video Source Link - from rest client - Postman Application
-
-
 # Using Git Bash to upload the project
 ![Screenshot 2024-02-25 112006](https://github.com/garvita2003/Backend---EcommerceApi/assets/102051676/6b9cd55e-7917-46e1-87fb-3770606b3455)
